@@ -1,1 +1,1 @@
-[what happens while making a decision](https://en.wikipedia.org/wiki/Somatic_marker_hypothesis)
+https://github.com/Rohit-Mardane/Technical-Documentation-Samples/wiki/Why-you-should-not-make-your-financial-decision-emotionally...#:~:text=Settings-,Why%20you%20should%20not%20make%20your%20financial%20decision%20emotionally..
