@@ -1,6 +1,6 @@
 **Show User**
 ----
-  Returns json data about a single user.
+  Returns JSON data about a single user.
 
 * **URL**
 
